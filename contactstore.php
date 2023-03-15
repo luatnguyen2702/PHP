@@ -43,7 +43,7 @@
                         <li>
 
                             <p><i class="fas fa-phone-square"></i><span class="font-weight-bold">Số điện thoại: </span>
-                                <a class="text-black-primary" href="tel:0376701749">+84 934161264</a>
+                                <a class="text-black-primary" href="tel:0934161264">+84 934161264</a>
                             </p>
                         </li>
                         <li>
