@@ -31,7 +31,7 @@ header("Cache-Control: max-age=2592000");
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>luonvui Store</title>
+    <title>luonvuituoi Store</title>
     <!-- Site Icons -->
     <link rel="shortcut icon" href=" images/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href=" images/apple-touch-icon.png">
