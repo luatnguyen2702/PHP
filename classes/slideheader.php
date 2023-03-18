@@ -1,1 +1,0 @@
-truot slide dau trang
